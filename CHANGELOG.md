@@ -11,3 +11,6 @@ All notable changes to systemd-persistence-scanner will be documented in this fi
 ## [0.1.2] - 2025-08-13
 - feat: add hash verification against known good package manifests
 
+## [0.1.3] - 2025-08-15
+- docs: document common persistence techniques and remediation steps
+
